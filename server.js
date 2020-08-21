@@ -1,4 +1,3 @@
-// @see https://github.com/eunahk92/Fitness-Tracker
 const express = require("express");
 const mongoose = require("mongoose");
 const logger = require("morgan");
